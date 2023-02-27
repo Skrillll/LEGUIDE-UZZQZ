@@ -2,8 +2,9 @@ AUTHOR = 'Omar El Mountassir'
 SITENAME = 'LEGUIDE-UZZQZ'
 SITEURL = ''
 
-PATH = 'content'
-
+PATH = 'C:\\Users\\omar\\OneDrive\\Documents\\GitHub\\LEGUIDE-UZZQZ'
+OUTPUT_PATH= 'output/'
+STATIC_PATHS = ['images', 'static']
 TIMEZONE = 'Africa/Casablanca'
 
 DEFAULT_LANG = 'English'
